@@ -46,6 +46,14 @@ pnpm dev
 bun dev
 ```
 
+## Note
+
+## This app now only can be run on vercel only since I have already changed the database from prisma to posgresurl to deploy on vercel, the vercel link is below:
+
+```bash
+https://vercel.com/logan842008s-projects/budget-tracking-app-logan
+```
+
 ## License
 
 Licensed under the [MIT license](https://github.com/nextui-org/next-app-template/blob/main/LICENSE).
